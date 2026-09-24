@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://internationalporschegarage.github.io/sitemap.xml
